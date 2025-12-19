@@ -8,7 +8,7 @@
 }
 
 .parent{
-    background-image: url("images/intro-import.jpg");
+    background-image: url("intro-import.jpg");
     height: 130vh;
     width: 100%;
     background-position:top center;
@@ -147,6 +147,7 @@ form .name_password input{
 .para a{
     color: #448EF4;
 }
+
 
 
 
